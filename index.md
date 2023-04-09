@@ -16,12 +16,29 @@ class NoahJaurigue{
 }
 
 ```
-(You can find the links above at the bottom of this page!)
+> You can find the links above and more at the [bottom of this page](https://github.com/njaurigue/CSE110-Lab1-userPage/blob/main/index.md#links)!
 
+![profilePic](IMG_6506.JPG)
 
+In my free time, I enjoy
+- collecting vinyl records,
+- watching sports (especially American Football!),
+- and spending time with friends!
 
+And here are the most difficult classes I am taking this quarter:
+1. CSE 140
+2. CSE 110
+3. CSE 140L
+4. COGS 101B
+5. LIGN 8
+
+Some upcoming tasks/projects I'd like to complete include:
+- [ ] Learn Cypress.JS
+- [ ] Learn React.JS
+- [ ] Spotify Monthly Summary Application
 ---
 ## Links!
+[GitHub](https://github.com/njaurigue)\
 [LinkedIn](https://www.linkedin.com/in/noah-jaurigue/)\
 [Portfolio](https://noahjaurigue.com/)\
-[GitHub](https://github.com/njaurigue)
+[Take a look at the README here](README.md)
