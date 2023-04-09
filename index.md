@@ -36,6 +36,7 @@ Some upcoming tasks/projects I'd like to complete include:
 - [ ] Learn Cypress.JS
 - [ ] Learn React.JS
 - [ ] Spotify Monthly Summary Application
+
 ---
 ## Links!
 [GitHub](https://github.com/njaurigue)\
